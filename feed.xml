@@ -1,201 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://jbarna.github.io/ideas/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jbarna.github.io/ideas/" rel="alternate" type="text/html" /><updated>2022-02-15T09:34:38-06:00</updated><id>https://jbarna.github.io/ideas/feed.xml</id><title type="html">Joel Barna</title><subtitle>A repository of thoughtful commentary about our world.</subtitle><entry><title type="html">The Effectiveness of Podcast Experts</title><link href="https://jbarna.github.io/ideas/podcasting/joe%20rogan/online%20media/media%20consumption/learning/2022/02/15/The-Effectiveness-of-Podcast-Experts.html" rel="alternate" type="text/html" title="The Effectiveness of Podcast Experts" /><published>2022-02-15T00:00:00-06:00</published><updated>2022-02-15T00:00:00-06:00</updated><id>https://jbarna.github.io/ideas/podcasting/joe%20rogan/online%20media/media%20consumption/learning/2022/02/15/The-Effectiveness-of-Podcast-Experts</id><content type="html" xml:base="https://jbarna.github.io/ideas/podcasting/joe%20rogan/online%20media/media%20consumption/learning/2022/02/15/The-Effectiveness-of-Podcast-Experts.html"><![CDATA[<p>Joe Rogan has recently landed in hot water after Neil Young and other artists have publicly taken down their music from the Spotify platform, after citing Joe Rogan’s podcast as spreading ‘mis-information’ surrounding the COVID-19 virus. I watched this drama unfold online and this invoked a question that has been rising within me for nearly a year now as I listened to podcast episodes discussing the details of the COVID-19 from London Real, Valuetainment, Joe Rogan, and Lex Fridman. The question that finally surfaced with help from the spotlight of the Joe Rogan drama was this: Is the typical podcast format of the host discussing a complicated topic with a domain knowledge expert a truly helpful mechanism that an average listener can use to reasonably construct their own opinions and conclusions about the topic? In short, are these really helping us?</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://jbarna.github.io/ideas/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jbarna.github.io/ideas/" rel="alternate" type="text/html" /><updated>2022-02-15T11:37:09-06:00</updated><id>https://jbarna.github.io/ideas/feed.xml</id><title type="html">Joel Barna</title><subtitle>Thoughts about our world.</subtitle><entry><title type="html">The Effectiveness of Podcast Experts</title><link href="https://jbarna.github.io/ideas/joe%20rogan/online%20media/podcasting/2022/02/15/The-Effectiveness-of-Podcast-Experts.html" rel="alternate" type="text/html" title="The Effectiveness of Podcast Experts" /><published>2022-02-15T00:00:00-06:00</published><updated>2022-02-15T00:00:00-06:00</updated><id>https://jbarna.github.io/ideas/joe%20rogan/online%20media/podcasting/2022/02/15/The-Effectiveness-of-Podcast-Experts</id><content type="html" xml:base="https://jbarna.github.io/ideas/joe%20rogan/online%20media/podcasting/2022/02/15/The-Effectiveness-of-Podcast-Experts.html"><![CDATA[<p>Joe Rogan has recently landed in hot water after Neil Young and other artists have publicly taken down their music from the Spotify platform after citing Joe Rogan’s podcast as spreading ‘mis-information’ surrounding the COVID-19 virus. As this drama unfolded I couldn’t help but ask a question which I had been pondering for nearly a year, as I had also been an avid listener to podcast episodes discussing the details of the COVID-19 from London Real, Valuetainment, Joe Rogan, and Lex Fridman. While these podcasts are definitely interesting and are entertaining to listen to, are they really helping us?</p>
 
-<p>Now I should start off by clarifying what we <em>are</em>, and <em>aren’t</em> trying to dicsuss, considering the drama with Joe Rogan has many different and important angles from which one could critique the podcasting space. First let’s focus on what we <em>aren’t</em> discussing which importantly is the matter of freedom of speech and the reactions of cancel culture or corporate entities like Spotify. We are also not discussing podcasts that focus on simplistic topics as those can be seen as either pure entertainment value, or they are so simple that a listener can reasonably learn from just simple exposure to the topic.</p>
+<p><strong>More specifically, is the typical podcast format of the host discussing a complicated topic with a domain knowledge expert a truly helpful mechanism that an average listener can use to reasonably construct their own opinions and conclusions about the topic?</strong></p>
 
-<p>Specifically we are focusing on podcasts and podcast episodes where the purpose of the episode was to discuss a complex topic, founded in a deep body of knowledge, with an expert within this domain of knowledge and an intended or implied goal for the listener to learn more about this topic. The Joe Rogan drama gives us a perfect example with a credentialed individual <insert name=""> in their domain of expertise <insert here=""> brought onto the show to discuss complex topic &lt;&gt;. However that isn't the only area where experts are discussing, in fact it's relatively as it coincides with the recent pandemic. Since the beginning of podcasting, hosts have been discussing compelx subjects such as geo-politics, economics, healthcare, finance, and others with the goal of enlightening their listeners with knowledge and explainations they may have been unaware of. But as the question begs, is this an effective way to learn?</insert></insert></p>
+<p>To clarify, we <em>aren’t</em> discussing the matter of freedom of speech and the reactions of cancel culture or corporate entities like Spotify. We are also not discussing podcasts that focus on simplistic topics as those can be seen as either pure entertainment value, or they are so simple that a listener can reasonably learn from just simple exposure to the topic. This analysis is focused on podcast episodes where the purpose was to discuss a complex topic that is nested deep in a body of knowledge with a relative expert for a listener to learn about. The Joe Rogan drama gives us a perfect example with the relative expert being Dr. Robert Malone in their domain of expertise of infectious diseases and together discussing the complex topic of the COVID-19 pandemic. While that is the current area with the spotlight, it’s a relatively new topic as it coincides with the recent pandemic. Since the beginning of podcasting, hosts have been discussing complex subjects such as geo-politics, economics, healthcare, finance, and other areas with the goal of enlightening their listeners with knowledge and explanations they may have been unaware of. So as the question begs, is this an effective way for listeners to learn?</p>
 
-<p>In order to perform some type of analysis, let’s break down these podcasts episodes into their respective parts, and then extract what can be deemed as positive and negative affects from them. From the simplest point of view you have the host, the expert, and a conversation exchange between the two. Looking closer, the <code class="language-plaintext highlighter-rouge">host</code> can vary between being more debatefully engaged through challenge assertions, assumptions, and conclusions that the expert is providing, or conversely only asking leading questions that allow the expert to deliver their perspective untouched. The <code class="language-plaintext highlighter-rouge">expert</code> can vary on many factors but primarily through their credibility within the institutions of their field of study, and the closeness between their speciifc field and the topic being discussed.</p>
+<h2 id="diving-in">Diving In</h2>
+<p>Let’s begin by breaking down these podcasts episodes into their respective parts and examine the merits of their unique qualities. From the simplest point of view you have the host, the expert, and a conversation exchange between the two. Looking closer, the <code class="language-plaintext highlighter-rouge">host</code> will vary between being more debatefully engaged with the expert through challenge their assertions, assumptions, and conclusions to asking leading questions and allowing the expert to deliver their perspective untouched. The <code class="language-plaintext highlighter-rouge">expert</code> can vary on many factors but primarily through their credibility within the institutions of their field of study, and the closeness between their specific field and the topic being discussed.</p>
 
-<p>Lastly, the <code class="language-plaintext highlighter-rouge">conversation exchange</code> is unique in two ways, structure, and automaticy. <code class="language-plaintext highlighter-rouge">Structure</code> in that it often does not have the same level of premeditated structure that a written paper, article, or presentation would have if given about the same topic. Conversations at best follow logically as the participants discuss the topic, but most often will have some variance where the particpants may get derailed, go off on a tangent, stuck on a part of the discussion, or simply interact in a way that is difficult to follow by a listener. <code class="language-plaintext highlighter-rouge">Automacity</code> comes into play when we consider that conversation exchanges are encoded in audio that is played back to us. When the listener loses attention or misunderstands a logical connection in the conversation, the listener’s concious must kick in and alert them that they are no longer following the logical connections of the conversation. The listener must then take an action to pause and rewind the podcast to gain a proper understanding. That may not seem like a large cause of concern, however compare that with the medium of a written article or paper where the consumer must actively read and exert mental effort to consume the information presented. If attention is lost and information is not captured correctly, the following sections will make less and less sense until the reader will be forced to retreat to the point of previous disconnect.</p>
+<p>Lastly, the <code class="language-plaintext highlighter-rouge">conversation exchange</code> is unique in two ways, structure, and automaticity. The <code class="language-plaintext highlighter-rouge">structure</code> of these episodes often do not have the same level of premeditated structure that a written paper, article, or presentation would have if given about the same topic. Conversations at best follow logically as the participants discuss the topic, but most often will have some variance where the participants may go off on a tangent or simply interact in a way that is difficult to follow by a listener. <code class="language-plaintext highlighter-rouge">Automaticity</code> comes into play when we consider that conversation exchanges are encoded in audio that is played back to us. When the listener loses attention or misunderstands a logical connection in the conversation, the listener’s conscience must kick in and alert them that they are no longer following the logical connections of the conversation. An action is then necessary to pause and rewind the podcast to gain a proper understanding. That may not seem like reason for concern until one compares that with the experience through a written article or paper where the consumer must actively read and exert mental effort to consume the information presented. If attention is lost and information is not captured correctly, the following sections will make less sense until the reader will be forced to retreat to the point of previous disconnect.</p>
 
-<p>In the case of an audio playback, it is easy to switch from active listening to passive listening as the media does not stop when attention diminishes. Coupled with other factors including their unstructured nature and their length which can easily reach beyond two hours, the probability of a listener to still be actively listening to the podcast at the end is considerably lower than the start. This switch from actively tracking a set of points and arguments to passively receiving information directly influences the degree to which the listener comprehends the topic internally with the ability to reach conclusions based on their own understanding. With passive listening, the consumer may pick up on certain phrases, key words, metrics, and conclusions that are available in the podcast, but their ability to reach their own conclusion based on an underlying set of understood logical connections diminishes greatly.</p>
+<p>In the case of an audio playback, it is easy to switch from active listening to passive listening as the media does not stop when attention diminishes. Coupled with their unstructured nature and length, which can easily reach beyond two hours, the probability of a consumer still actively listening to the podcast at the end is considerably lower than the start. This switch from actively tracking a set of points and arguments to passively receiving information directly influences the degree to which the listener comprehends the topic internally and has the ability to reach conclusions based on their own understanding. With passive listening, the consumer may pick up on certain phrases, key words, metrics, or conclusions that are available in the podcast, but their ability to reach their own conclusion based on an underlying set of understood logical connections diminishes greatly.</p>
 
-<p>This passive state of media consumption is not unique to podcasts or audio playbacks, it’s a common phenominon in story telling. Consumers commonly fall into this passive state when watching a movie, listening to a story, or reading a fiction novel. In fact it’s not a far stretch to argue that the quality of a story and the media construction of that story coorelates with its ability to grip the consumer and force them into a passive state of attention. How enjoyable would our experience with a movie be if we were so mentally active that we could continuously critique the film during its playback? Certainly gripping entertainment is something that we seek out, but how does this overlap with our expectations with podcasts? When is the time and place for this passive media consumption, and do podcast conversations with experts fall into that category?</p>
+<p>This passive state of media consumption is not unique to podcasts or audio playbacks as it is of common practice in storytelling. Consumers commonly fall into a passive state when watching a movie, listening to a story, or reading a fiction novel. It’s not a far stretch to argue that the quality of a story and the media construction of that story correlates with its ability to grip the consumer and bring them into a passive state of attention. How enjoyable would our experience with a movie be if we were so mentally active that we could continuously critique the film during its playback? Certainly gripping entertainment is something that we seek out but is it useful as a tool for learning complex topics? When is the time and place for passive media consumption, and do podcast conversations with experts fall into that category?</p>
 
-<p>Ultimately, it comes down to how important the topic is to the listener. The reason we are comfortable going to the movies and suspending our active awareness is that we aren’t concerned with the influence on our lives that an action movie is going to have. In the case of a podcast discussing something arbitrary relative to ourselves, such as a cooking podcast or this podcast discussing the details of rocks <insert podcast="">, these topics are unrelated enough to be safely absorbed without critical thought for sake of entertainment. The same can be said for complex conversations that are still distanced from our everyday lives such as string theory. However I would argue that the line is crossed when the topics being discussed have perceived importance to the listener along with the opinions and values they hold about their surrounding world. In the case of COVID this is easy to illustrate as we are all influenced due to the governmental and societal controls currently in place. We all have varying levels of underlying feelings and opinions surrounding the COVID-19 pandemic and the web of complications that come along, such as school closures, mask mandates, and political responses. When it comes to these topics that we have opinions about and identify with, it is in our best interest to seek out good sources of information that challenge our biases and provide multiple perspectives, so that we can form our own conslusions based on our own understanding.</insert></p>
+<p>The reason we are comfortable going to the movies and suspending our active awareness is that we aren’t concerned with the influence on our lives that an action movie is going to have. In the case of a podcast discussing something arbitrary to our lives, such as a cooking podcast or a true crime show, these topics are unrelated enough to be safely absorbed without critical thought for the sake of entertainment. The same can be said for complex conversations that are still distanced from our everyday lives, such as string theory. However I would argue that the line is crossed when the topics being discussed have perceived importance to the listener due to the opinions and values they hold about their surrounding world. In the case of COVID-19 this is easy to illustrate as we are all influenced due to the governmental and societal controls currently in place. We all have varying levels of underlying feelings and opinions surrounding the COVID-19 pandemic and the network effects that come along such as school closures, mask mandates, and political responses. When it comes to these topics for which we have opinions about and identify with, it is in our best interest to seek out good sources of information that challenge our biases and provide multiple perspectives so we can form our own conclusions based on our own understanding.</p>
 
-<p>In a perfect world we would all have the time and resources to discover information and evidence regarding the topics that we care about, but of course this is not a realistic expectation. While most individuals spend the time becoming well knowledgable in the domain of study where they perform work, they do not have the resources to extend their expertise to other areas that affect them but aren’t critical for everyday necessesities. So short of becoming financially independent and actively researching the topics that affect you to have informed perspectives on, what is there to do?</p>
+<p>In a perfect world we would all have the time and resources to discover information and evidence regarding the topics that we care about, but of course this is not a realistic expectation. While most individuals spend the time becoming well knowledgeable in the domain of study where they perform work, they are unable to extend their expertise to other areas that affect them but aren’t critical for everyday necessities. Short of becoming financially independent and actively researching the topics that affect you, what is there to do?</p>
 
-<p>One simple answer is to forgo concern for those areas of knowledge, and focus on the things that you can actively control in your surrounding life. Why spend the time to have a nuanced and personal understanding of finance, when you can just max out your 401k and focus on enjoying your time with your loved ones? This is indeed one approach, but there are a few challenges with this. First, sometimes these topics have just enough impact on our lives that it is necessary for us to have a deeper understanding. Topics such as our health and our finances have large controlling factors over our everyday lives, regardless if we have a desire to be come informed. 
-Another factor is the human desire to understand the world around us. Living without answers and explainations for the external events in our world is an uncomfrotable place to reside. It is only natural to seek out information and explainations for the factors that influence our lives. So with a desire to learn and the lack of time to do it, what is the appropriate answer?</p>
+<p>One simple answer is to forgo concern for those areas of knowledge, and focus on the things that you can actively control in your surrounding life. Why spend the time to have a nuanced and personal understanding of geopolitics when you can focus on your local community and enjoy time with your loved ones? This is indeed one approach, but there are a few challenges with this. First, sometimes these topics have just enough impact on our lives that it is necessary for us to have a deeper understanding. Topics such as our health and our finances have large controlling factors over our everyday lives, regardless if we have a desire to become informed. 
+Another factor is the human desire to understand the world around us. Living without answers and explanations for the external events in our world is an uncomfortable place to reside. It is only natural to seek out information and explanations for the factors that influence our lives. With this desire to learn and the lack of time to do it, what is the appropriate answer?</p>
 
-<p>Journalists have long realized the necessity of providng quality information to consumers who don’t have the resources to source the information themselves. Proper investigative journalists will research a topic from multiple perspecives and challenge experts who have reached different conclusions to see how they hold under scruitiny. The story is then presented the consumer in a structured media format which provides both a storyline to follow along with and the differing opinions side-by-side so the consumer can judge the quality of the arguments and come to their own conclusions the best they can. While no journalism or research is perfect and without bias, this is arguably the best approach for a consumer who wants to learn sophisticated perspectives on a topic without doing the active research themselves.</p>
+<p>Journalists have long realized the necessity of providing quality information to consumers who don’t have the resources to source the information themselves. Investigative journalists will research a topic from multiple perspectives and challenge experts who have reached different conclusions to see how they hold under scrutiny. The story is then presented to the consumer in a structured media format which provides both a storyline to follow along and the differing opinions juxtaposed so the consumer can judge the quality of the arguments and come to their own conclusions the best they can. While no journalism or research is perfect and without bias, this is arguably the best approach for a consumer who wants to gain sophisticated perspectives on a topic without doing the active research themselves.</p>
 
-<p>So while the consumer can’t be reasonably held accountable for sourcing information themselves and doing the research, there is some responsibility for sourcing media that presents this information in a fair manner. The consumer should source from different media publishers to reduce the effect of bias, and use the following questions as a starting point when identifing media that will help inform their perspectives on topics they care about:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Does this media source have a reputation of non-bias and journalistic integrity?
-- Does this piece of media share and compare differing perspectives surrounding the topic in question?
-- Is the media structured in a coherent way that allows the consumer to follow along logically?
-- Does the media have default automaticy or is the consumer required to pay attention to digest the information?
-</code></pre></div></div>
-
-<p>Coming back to our initial question, what do our conclusions about quality media imply about podcasts and their conversations with experts? Podcasts are certainly better than memes, twitter conversation, short-form opinion videos or politicized news articles, but they aren’t the most effective. Rather than iterate the shortcomings of the podcast conversations, let’s focus on the areas that when improved will provide higher quality information for the listener. First, more structure could be added to the podcasts through introductory sections that covers basic fundamentals and the ordering of questions to the expert from simple to more complex. Secondly, the podcast host could do a better job challenging the perspective of the expert by bringing up differing conclusions and forcing the expert to respond in full. A more effective method would be to force the discussion to the initial point of divergence in the underlying set of domain knowledge so the listener doesn’t juggle between just conclusions, but that requires more understanding by the host. That leads us to the most effective option of providing a debate-like experience with multiple experts who hold different perspectives, although that significantly changes the format of the media. Lastly, the length of the podcast conversation could be tailored for the average auditory attention span of the listener. While this is subjective, I believe fourty-five minutes to one hour is the sweet spot for a podcast in both listener attention and topic exploration.</p>
-
-<p>Does Spotify and Joe Rogan have a responsibility to improve the quality of the information in their podcast? Not exactly. Spotify is a business just like any other and is fully within its rights to produce media that gathers attention from a broad base of consumers, regardless the quality of that content. Furthermore, Joe Rogan never stated that his intention with the podcast was to have high quality conversations with his guests. This can be mostly represented by the majority of Joe Rogan’s content which is void from serious topics and is truly entertainment media for most individuals. In Joe Rogan’s own words responding to the recenty controversy, “My point of doing this is always, just to produce interesting conversations, and ones that I hope people enjoy”. Is it Joe Rogan’s responsibility if listeners extract any further meaning from these conversations? And does he have an added responsibility due to the amount of listenership he has?</p>
-
-<p>The problem is an open-ended one with no exact answer, but parallels can be found with other challenges in our society. Take the obesiety crisis that America is facing with nearly 40% of all American adults being obese. On one hand we have the freedom to choose the foods that we eat and on the other we have an industry that takes advantage of human’s evolutionary desire for fat, salt, and sugar. With podcasting we have freedmon of speech and the desire to understand the world around us. Is it both Joe Rogan’s and McDonald’s responsibility that their millions of consumers make healthy consumption choices? No, but they should market their content honestly and consumer should choose wisely what they eat and listen to. When millions of Americans eat highly processed foods and McDonalds, we shouldn’t be surprised when the obesity rate increases. And when millions of Americans form their perspectives about climate change, politics, economics and this pandemic through memes, short-form one-sided content and podcast conversations, we shouldn’t be surprised when the rate of misguided and wild conclusions the everyday citizen holds either.</p>
-
-<p>The uncomfortable truth is that regardless of our freedmons and where the blame lies, there is still an obesity crisis. Our society will bear that weight through healthcare costs, disability, and social security. And while it may be a stretch to call the current state of affaris an “information crisis”, it’s obvious something is happening with the polarization present within our country. At best society continues with citizens carrying significantly different perspectives that are unchallenged due to the media they consume, at worst, it’s unclear how society will have to bear that responsibility.</p>
-
-<p>Thanks for reading.</p>
+<p>Even though the consumer can’t be reasonably held accountable for sourcing information themselves and doing the research, there is some responsibility for sourcing media that presents this information in a fair manner. The consumer should source from different media publishers to reduce the effect of bias, and then use the following questions as a starting point when selecting media that will help inform their perspectives on topics they care about:</p>
 
 <ul>
-  <li>There does lie some responsibility for the listener to find a source of information that provides good information</li>
-  <li>
-    <ul>
-      <li>Do they showcase multiple perspectives back to back?</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>Do they have a reputation for being inherently biased towards one type of perspective?</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>What is the format of the media?</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>
-        <ul>
-          <li>Writing vs Audio Playback vs Video</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>
-        <ul>
-          <li>Length of the content</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>Listener to different media sources on the same topic</p>
-  </li>
-  <li>Seek out sources that have journalistic integrity and understand the value of providing multiple perspectives back to back for the listener to compare and contrast based on their own evaluation and judgement.</li>
-  <li>
-    <ul>
-      <li>Good journalists understand this responsibility when providing a story and source opinions and perspectives from multiple sides so the viewer can see the discourse.</li>
-    </ul>
-  </li>
-  <li>Mediums which are good for fun, comedy, story telling, fiction, etc, may not be the best suited for serious non-fiction topics</li>
-  <li>
-    <ul>
-      <li>Just as memes aren’t a good medium for seriously understanding or reaching a conclusion about a serious topic, maybe podcasts aren’t either.</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>What are we listening for? Are we listening to truly learn or do we just want some exposure and some entertainment?</li>
-    </ul>
-  </li>
-  <li>The purpose of the podcast is unclear - is it a comedy show, or are we discussing serious things?</li>
-  <li>
-    <p>Ultimately there should be a shared responsibility between the integrity of the podcaster, their marketing and actual product, and the listener to seek other perspectives</p>
-  </li>
-  <li>So do podcasts with experts fit these requirements?</li>
-  <li>
-    <ul>
-      <li>Not really. They’re better than memes or really short 5-10 mintue videos with basically just a conclusion, but not much better</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>Length is arguably too long without structure to keep you engaged</li>
-    </ul>
-  </li>
-  <li>Do they have a responsibility to provide good information?</li>
-  <li>
-    <ul>
-      <li>Not really, they never promised it</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>They could be better aligned with their stated purpose</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>Again, this isn’t a critique of freedom of speech</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>Spotify is a business, and like any business they need a marketable product to attract consumers. A passive, mindless, and enjoyable audio experience checks that box more than a thourough investigative piece.</li>
-    </ul>
-  </li>
-  <li>How could they become better?</li>
-  <li>
-    <ul>
-      <li>Have different experts on at the same time, sort of like a debate</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>Have more challenging questions ready for the expert</li>
-    </ul>
-  </li>
-  <li>Wrap it all up</li>
-  <li>
-    <ul>
-      <li>Choose what you care about, and if you care about something that is outside of your wheelhouse then understand the risks of passive media consumption and source good media that you can trust while you’re sedated.</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>When you go under for surgery, you make sure the person taking care of you is reliable.</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>Same goes for passive media, to a lesser extent.</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>Joe Rogan isn’t breaking freedom of speech, and Spotify doesn’t have an obligation to make every media show some perfect art of journalistic integrity</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>
-        <ul>
-          <li>The podcast could be more in line with how people actually consume it - people are using it to construct their opinions of the pandmic, yet for Joe Rogan it’s “just a conversation”. There is a potential disconnect there</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>Do you want to consume the mcdonalds version of information?</li>
-  <li>
-    <ul>
-      <li>We have freedom of choice, and still 40% of american’s are obese. Whos fault is this?</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>There is a discussion surrouding health, whether mental or physical. I don’t know the answer</li>
-    </ul>
-  </li>
-  <li>
-    <ul>
-      <li>Choose what you consume wisely, whether it’s food, or information media.</li>
-    </ul>
-  </li>
-  <li>The devlis advocate side</li>
-  <li>
-    <ul>
-      <li>Maybe if I don’t care that much about the topic, then listening to a sophisticated and interesting conversation is okay</li>
-    </ul>
-  </li>
-  <li>The conversations about COVID immedaitely put us into the passive state because we can’t possibly understand the underlying information</li>
+  <li>Does this media source have a reputation of non-bias and journalistic integrity?</li>
+  <li>Does this piece of media share and compare differing perspectives surrounding the topic in question?</li>
+  <li>Is the media structured in a coherent way that allows the consumer to follow along logically?</li>
+  <li>Does the media have default automaticity or is the consumer required to pay attention to digest the information?</li>
 </ul>
 
-<p>? Difference in the ability for us to critique a movie if we know something about a movie before hand versus going in blind?</p>]]></content><author><name></name></author><category term="podcasting" /><category term="joe rogan" /><category term="online media" /><category term="media consumption" /><category term="learning" /><summary type="html"><![CDATA[Do conversations on the Joe Rogan or Lex Fridman podcast really help us understand the world?]]></summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://jbarna.github.io/ideas/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://jbarna.github.io/ideas/jupyter/2020/02/20/test</id><content type="html" xml:base="https://jbarna.github.io/ideas/jupyter/2020/02/20/test.html"><![CDATA[<!--
+<h2 id="wrapping-up">Wrapping up</h2>
+<p>Coming back to our initial question, what do our conclusions about quality media and consumer responsibility imply about podcasts and their conversations with experts?</p>
+
+<p>While podcasts are certainly better than short-form opinion videos or politicized news articles, they aren’t the most effective method for a consumer to construct their own perspectives. That being said, there are a number of opportune areas for improvement that podcast hosts could incorporate into their shows. First, more structure could be added to the episodes through introductory sections that cover basic fundamentals coupled with an ordering of questions to the expert beginning from simple to complex. Secondly, the host could do a better job challenging the perspective of the expert by bringing up differing conclusions and forcing the expert to respond in full. A more effective method that requires more understanding by the host would be to force the discussion to the initial point of divergence in the underlying set of domain knowledge so the listener doesn’t simply juggle between conclusions. Of course the best option is providing a debate-like experience with multiple experts who hold different perspectives but this risks significantly changing the format of the media. Lastly, the length of the podcast conversation could be tailored for the average auditory attention span of the listener. While this is subjective, a safe bet of forty-five minutes to one hour may be the sweet spot for a podcast in both listener attention and topic exploration.</p>
+
+<p>With those recommendations listed, does Spotify and Joe Rogan have a responsibility to improve the quality of the information in their podcast? Not exactly. Spotify is a business just like any other and is fully within its rights to produce media that gathers attention from a broad base of consumers, regardless of the quality of that content. Furthermore, Joe Rogan never stated that his intention with the podcast was to have high quality conversations with his guests. This can be represented as the majority of Joe Rogan’s content is void from serious topics and is truly entertainment media for most individuals and in Joe Rogan’s own words: “My point of doing this is always, just to produce interesting conversations, and ones that I hope people enjoy”. Is it Joe Rogan’s responsibility if listeners extract any further meaning from these conversations?</p>
+
+<p>It’s an open ended question, but parallels can be found with other challenges in our society. Take the obesiety crisis that America is facing with over 30% of American adults being obese. On one hand we have the freedom to choose the foods that we eat and on the other we have an industry that takes advantage of humans’ evolutionary desire for fat, salt, and carbohydrates. With podcasting we have freedom of speech and the desire to understand the world around us. Is it both Joe Rogan’s and McDonald’s responsibility that their millions of consumers make healthy consumption choices? Perhaps not, but they should market their content honestly and consumers should choose what they eat and listen to wisely. When millions of Americans eat highly processed foods we shouldn’t be surprised when the obesity rate increases. Similarly when millions of Americans form their perspectives about climate change, politics, economics and this pandemic through memes, short-form one-sided content and podcast conversations, we shouldn’t be surprised when the rate of misguided and wild conclusions that the everyday citizen has increases either.</p>
+
+<p>The uncomfortable truth is that regardless of our freedoms and where the blame lies, there is still an obesity crisis. Our society will bear that weight through healthcare costs, disability, and social security. And while it may be a stretch to call the current state of affairs an “information crisis”, it’s obvious something is happening with the polarization present within our country. At best society continues with citizens carrying significantly different perspectives that are unchallenged due to the media they consume, at worst, it’s unclear how society will have to bear that responsibility.</p>
+
+<p>We can’t control others, but we can control ourselves and the media we choose to consume. As with everything, we should make responsible choices. The same goes for your media habits. Thanks for reading.</p>]]></content><author><name></name></author><category term="joe rogan" /><category term="online media" /><category term="podcasting" /><summary type="html"><![CDATA[Do conversations on the Joe Rogan or Lex Fridman podcast really help us understand the world?]]></summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://jbarna.github.io/ideas/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://jbarna.github.io/ideas/jupyter/2020/02/20/test</id><content type="html" xml:base="https://jbarna.github.io/ideas/jupyter/2020/02/20/test.html"><![CDATA[<!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
