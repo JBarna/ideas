@@ -1,6 +1,6 @@
 ---
 title: "The Effectiveness of Podcast Experts"
-description: "Are pocast conversations with domain knowledge experts and complex topics actually helping listeners construct their own perspectives about the topic?"
+description: "Are pocast conversations with domain knowledge experts and complex topics actually helping listeners construct their own perspectives?"
 layout: post
 toc: false
 comments: true
