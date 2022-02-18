@@ -6,7 +6,7 @@ toc: false
 comments: true
 hide: false
 search_exclude: false
-categories: [joe rogan, online media, podcasting]
+categories: []
 metadata_key1: metadata_value1
 metadata_key2: metadata_value2
 ---
