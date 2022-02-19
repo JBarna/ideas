@@ -18,28 +18,20 @@ metadata_key2: metadata_value2
 - - The research + logical method, understand the underlying data, make your own decision about a conclusion
 
 - The "Shop" method, how does it work?
+- - (intro) Example of selecting a political candidate
 - - What are you using to select the conclusion you want if you aren't doing the logical work?
 - - You are most likely relying on other factors that are not themselves logical
 - - The feeling you have towards the speaker, their credentails, their background, the way they talk
 - - These are "trust factors"
-- - These feelings most likely come from your upbringing and what you identify with or you like for whatever reason (maybe)
-- - This is done subconciously
-
-- What implications does it have on the individual?
+- - (weak) These feelings most likely come from your upbringing and what you identify with or you like for whatever reason (maybe)
 - - Our identity and subscribed conclusions entangle as there is no other underlying mechanism, like logic, that we can point to as reasons for our conclusions
-- - Subscribing to conclusions without proper logical work may create poor intellectual habits
-- - At best we are able to compartmentalize
-- - At worst this spreads and we are more willing in the future to subscribe to others opinions (trickle down affect)
-
-(Pause & introspection) Critiques of our underlying assumptions
-- - Are we even able to have individual thoughts? An anthropologist might point out that we've always lived and learned in societies or cultures
-- - Is it possible to assemble a conclusion logically, or are our construction of thoughts always plauged by internal bias and subconcious queus, and personal experiences?
+- - This is done subconciously
 
 - What implications does using the "shop" method have when discussing topics with others?
 - - When others challenge our ideas we take personal offense to this because our identity is coorelated with our ideas. If someone disagress with your opinion, they've disagreed in some essense with your very being. 
 - - There is no shared way of discussing the differences in the approach to reach the conclusion because the decision was not conciously rational in nature.
 - - (recognize positive path but don't dive in ) The only way to reconcile your differences is to become introspective and ask yourself why you came to your conclusions, go back to the starting block, and try again rationally.
-- - Without introspection, we simply categorize every other person as an "other", since we don't know why we choose the way we do and the way they do. We just know we're different.
+- - Without introspection and overcoming our deffences, we simply categorize every other person as an "other", since we don't know why we choose the way we do and the way they do. We just know we're different.
 
 - How this affects our interaction with social groups
 - - Our attachments to these groups are based on intangible ideas and are thus correlated with our identify and feelings, creating a tribe like feeling. 
@@ -96,6 +88,14 @@ metadata_key2: metadata_value2
 
 # OUTLINE FRAGMENTS 
 - - - 
+(Pause & introspection) Critiques of our underlying assumptions
+- - Are we even able to have individual thoughts? An anthropologist might point out that we've always lived and learned in societies or cultures
+- - Is it possible to assemble a conclusion logically, or are our construction of thoughts always plauged by internal bias and subconcious queus, and personal experiences?
+
+- What implications does it have on the individual?
+- - Subscribing to conclusions without proper logical work may create poor intellectual habits
+- - At best we are able to compartmentalize
+- - At worst this spreads and we are more willing in the future to subscribe to others opinions (trickle down affect)
 
 - Solutions we can take (needs to be broken up to flow better)
 - - Bystander approach
