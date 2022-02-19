@@ -10,6 +10,8 @@ categories: []
 metadata_key1: metadata_value1
 metadata_key2: metadata_value2
 ---
+# Outline
+- - - 
 
 - Selecting a conclusion
 - - The "Shop" method, check for ideas that you like, pick one
@@ -20,11 +22,11 @@ metadata_key2: metadata_value2
 - - You are most likely relying on other factors that are not themselves logical
 - - The feeling you have towards the speaker, their credentails, their background, the way they talk
 - - These are "trust factors"
-- - These feelings most likely come from your upbringing and what you identify with or you like for whatever reason
-- - Our identity and subscribed conclusions entangle as there is no other underlying mechanism, like logic, that we can point to as reasons for our conclusions
+- - These feelings most likely come from your upbringing and what you identify with or you like for whatever reason (maybe)
 - - This is done subconciously
 
 - What implications does it have on the individual?
+- - Our identity and subscribed conclusions entangle as there is no other underlying mechanism, like logic, that we can point to as reasons for our conclusions
 - - Subscribing to conclusions without proper logical work may create poor intellectual habits
 - - At best we are able to compartmentalize
 - - At worst this spreads and we are more willing in the future to subscribe to others opinions (trickle down affect)
@@ -33,43 +35,95 @@ metadata_key2: metadata_value2
 - - Are we even able to have individual thoughts? An anthropologist might point out that we've always lived and learned in societies or cultures
 - - Is it possible to assemble a conclusion logically, or are our construction of thoughts always plauged by internal bias and subconcious queus, and personal experiences?
 
-- What implications does using the "shop" method have with others?
+- What implications does using the "shop" method have when discussing topics with others?
 - - When others challenge our ideas we take personal offense to this because our identity is coorelated with our ideas. If someone disagress with your opinion, they've disagreed in some essense with your very being. 
 - - There is no shared way of discussing the differences in the approach to reach the conclusion because the decision was not conciously rational in nature.
-- - The only way to reconcile your differences is to become introspective and ask yourself why you came to your conclusions, go back to the starting block, and try again rationally.
+- - (recognize positive path but don't dive in ) The only way to reconcile your differences is to become introspective and ask yourself why you came to your conclusions, go back to the starting block, and try again rationally.
 - - Without introspection, we simply categorize every other person as an "other", since we don't know why we choose the way we do and the way they do. We just know we're different.
 
-- How this may be creating current social divisions
+- How this affects our interaction with social groups
+- - Our attachments to these groups are based on intangible ideas and are thus correlated with our identify and feelings, creating a tribe like feeling. 
 - - This "otherization" creates social groups and ideologies that form not based on the ideas but based on the underlying factors that people used to choose their ideas
 - - These underlying factors may be things like race, culture, who we trusted growing up, etc. 
 - - This could explain why there is substaintial division along those lines and why ideologies are commonly grouped with "isms"
+
+- How logical shortcuts are just as bad
+- - So going back to square one, why not just become educated in these subjects?
+- - As previously discussed - this means listening to good media sources
+- - But don't fall into the trap of thinking that you can just "identify" intellectual sources
+- - Surely an averagly intelligent person can identify a nutjob spouting off crazy conslusions, but are we using shortcuts to identify conclusions based on how intellectual or well thoughtout or common sensical someone is?
+
+- Story time of the physics story
+- - The takeaway, if you are an expert, that means you should be able to do the actual rational work to reach the same conclusion, not be "smarter" at identifing if conclusions sound good or smell rotten
+- - For the rest of us, if this type of human bias can affect experts, about a topic in their domain, about a conclusion that a different expert had, what does that say about our ability to identify conclusions based on the "rational" indicators of another "expert"?
+- - - Basically.... we can't
+- - (tie in to earlier, not sure how to make this work) We now see ourselves as intellectual, so if we subscribe to ideas based on what we identify as smart ideas, then we see everyone else as stupid.**
+
+- First, how do we navigate this landscape going forward?
+- - How necessary is it to have opinions on these topics?
+- - - Do they actually have a direct influence on you?
+- - - Ask yourself the hard question of if you didn't participate, would anything in your direct surroundling life change?
+- - - Even if they do affect remotely affect you, how often? We only vote once every few years. 
+- - - Do you have to pick a side all the time?
+- - Either abstain or use concious compartamentalization to carefully become aware and make choices when necessary
+- - Abstain from participating in topics that don't directly affect you
+- - Be a responsible consumer of media,
+- - - try to get as many different perspectives as possible, don't jump to conclusions
+- - - Make a decision to just be aware. Aware of different perspectives. There is value and comfort in awareness without aligning to sides
+- - Understand and compartamentlize when you actually do have to take sides
+- - - What to do when it comes time to vote?
+- - - Compartamentlize your decision, realize it's without full thought, and keep your identity away from it
+
+- Second, learn how to navigate and identify situations in the moment
+- - Identify sources of jumping to conclusions or tribal behavior
+- - - People who "otherize" will push you to pick a group, or say that you're still the problem.
+- - - I argue that you are in fact conciously choosing to not fall down that pitfall of jumping to a conclusion, and in fact you are maintaining your level of intellectual discipline
+- - - When others try and force you into making a decision, realize it as a friend who has a gambling or eating problem and wants to drag someone else in. Have sympathy but stay away
+- - Train yourself to recognize when you are becoming defense of preconceieved beliefs that you may have accumulated
+- - - Being willing to break down our own identity and be honest with our honest inclinations
+- - - Being willing to unsubcribe to ideas that we've had previously
+- - - Being able to take the highground and become introspective and not defensive
+- - - Rememeber, This is about your own journey of finding truth, not about whos right and wrong
+- - - Does holding onto this opinion or feeling really matter to my everyday?
+
+- Conclusion
+- - We have a choice for which path we want to go down, which wolf to feed
+- - We can hold onto our intellectual discipline by choosing what we focus on
+- - We can always abstain from a particular convesation, or walk away
+- - We can treat people with humanity and ask them "why" until they become introspective
+- - We can try to be more comfortable having direct 1-1 conversations with others, as this removes the tribal element and we have a better chance of realizing we're more alike than different
+
+
+# OUTLINE FRAGMENTS 
+- - - 
 
 - Solutions we can take (needs to be broken up to flow better)
 - - Bystander approach
 - - - This has been under attack, saying if "you're not with me, you're against me"
 - - - Playground example, but it's simplistic
 - - - This concept places pressure on individuals to make decisions and align with groups
-- - Actually becoming informed
-- - - Only matters if it's something you have control over
-- - - Only matters if you use it for good
-- - Removing previously held ideas
-- - - Being willing to break down our own identity and be honest with our honest inclinations
-- - - Being willing to unsubcribe to ideas that we've had previously
-- - - Being able to take the highground and become introspective and not defensive
-- - - This is about your own journey of finding truth, not about whos right and wrong
+
+
 - - (stretch goal) Understand the shared identity within your social group
 - - - Knowing why you or others feel some way inherintly allows you to at least point to the underlying reasons for disagreeance and begin a conversation
 - - - Allows you to unwind from previously held beliefs that were perhaps subconcious
+
 - - Consuming responsible media
 - - - compartamentalizing the conclusions as separate from the actual knowledge you have
 - - - be willing to forgo an exact conclusion, as some domains are still vastly unknown (health, economics, etc), compared with simpler topics
 - - - Be aware that walking away with an adherance to a conclusion may simply mean that you have sided with certain trust factors, not the underlying arguments
+
 - - Consider how necessary the information is
 - - - You only vote once in a while, you don't always have to be decided
 - - - Does having an opinion on this topic even matter or influence your everyday life?
+
 - - Identify entry points of these easy conclusions
 - - - Friends and family, at best you just have companionship and feel unity, at worst you start seeing eachother as part of different tribes and that could jepradize the intial reasons for your relationship
-- - - Online media
+- - - Online media, random opinions, etc, when joe rogan starts talking about something serious, etc
+
+- - Actually becoming informed (removed)
+- - - Only matters if it's something you have control over
+- - - Only matters if you use it for good
 
 - Careful to not fall into the "logical identification" trap
 - - You may just listen to people who sound like they know what they're talking about (almost as bad)
@@ -77,8 +131,10 @@ metadata_key2: metadata_value2
 - - (Example, physics car with windmill)
 - - If you are an expert, then you should be able to do the logical buildup to the conclusion. Don't skip it
 - - If it can happen to experts, it can happen to you too
-- - We now see ourselves as intellectual, so if we subscribe to ideas based on what we identify as smart ideas, then we see everyone else as stupid.**
 
+
+# THOUGHT DUMP
+- - - 
 
 In fact beyond a general critique of the writing, I am extemely curious what you think about the arguments made around the automaticity of media and how that affects a consumer's ability to construct their own ideas. In a way it's analogous to a citizen who votes for a polictial candidate - some listen to the candidates and pick the one they like and vote for them. Others construct their own understanding of politics and then choose a candidate based on the similiarity of their views to their own. This is something that is really interesting to me in general which is, if you are the former individual, is there an argument to be made that you are less of an automnomous individual and more of a follower? And if you don't make your decisions based on your own rational understanding of a topic, what are you making those decisions on? The way someone talks? The subconcious queues of an individual that for some reason, perhaps relatable to the individuals in your upbringing, you identify with that indicate a feeling to you that this is the person for which their conclusions you trust more than others? And if that is the case, is this also a potential root of social groups that form around different aspects of people's inherent identity such as their origins, race, and cultural experiences? And ultimately what does it mean for the individual who subscribes to a conslusion without doing the forethought to reach that conclusion themselves - is their identity actually their own at that point, or is it part of the social group that subscribes to that conclusion? If someone disagrees with you about your conclusion and you've done the forethought to construct your own opinion based on logical reasoning, the typical response is to try and identify where in the rational reasoning the divergence occurs, so that you can better understand the logical foundataions that may lead you to a more formulated and responsible conclusion. When these disagreements occur, you are less inclined to see yourself as an opposer to the other individual, but instead see both individuals are attempting to reach the best conslusion based on their own atonomous understanding and exploration. However if you are the individual who shops around for a conclusion that you subscribe to based on subconsiouc queues that you may not conciously be aware of, when someone disagrees with you there is no underlying basis for which the dispute can be settled. The only reaction is simply an understanding that you two are not alike and perhaps as represented with our current polarization, that the underlying morals, thoughts, identities, and social alliances are additionally completely different. Its with this extension that we see the disagreeing individual as an "other", or from the other side of the coin, not aligned with our own subconsious queues that brought us to accept one conclusion over the other available social opinions. But as I stated, we only see this person as an "other" if we ourselves reached the conclusions that we did through subconsious decision and not through concious deliberation of the underlying ideas and evidence presented. Wrapping it back up in the context of my original article, if we ourselves take more responsibility for consuming media that presents multiple perspectives alongside a decent explanation of the underlying fundamentals that those conclusions are based on, perhaps we can begin to reach a place where we see individuals with differing opinions as less of "others", and more as a similiar individual to ourselves who is trying to reach their own understanding and conclusion as well. In effect, breaking down the perceived barriers between different social groups and uniting over individuality of thought. 
 
