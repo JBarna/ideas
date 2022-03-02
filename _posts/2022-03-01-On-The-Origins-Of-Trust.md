@@ -1,6 +1,6 @@
 ---
-title: "On the Origins of Trust"
-description: "What implications can we identify about ourselves and socieity by examining the origins of trust?"
+title: "The Origins of Our Ideas"
+description: "Without first principles, how do we decide on our ideas?"
 layout: post
 toc: false
 comments: true
