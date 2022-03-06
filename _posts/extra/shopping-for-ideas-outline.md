@@ -11,7 +11,7 @@
 - - These are "trust factors"
 - - (weak) These feelings most likely come from your upbringing and what you identify with or you like for whatever reason (maybe)
 - - Our identity and subscribed conclusions entangle as there is no other underlying mechanism, like logic, that we can point to as reasons for our conclusions
-- - This is done subconciously
+- - This is done subconciously 
 
 - What implications does using the "shop" method have when discussing topics with others?
 - - When others challenge our ideas we take personal offense to this because our identity is coorelated with our ideas. If someone disagress with your opinion, they've disagreed in some essense with your very being. 
